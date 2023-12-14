@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/xbg4jjv58aouccc4/branch/master?svg=true)](https://ci.appveyor.com/project/Winta38/ajs-9-animation)
+[![Github Pages](https://img.shields.io/badge/GitHub-Pages-green)](https://winta38.github.io/ajs-9-animation/)
+
 # Домашнее задание к занятию "9. Анимации и CSS"
 
 Правила сдачи задания:
